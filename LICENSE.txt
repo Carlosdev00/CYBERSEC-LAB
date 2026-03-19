@@ -1,0 +1,130 @@
+================================================================================
+                       CYBERSEC LAB — LICENCIA DE USO
+                         Todos los derechos reservados
+================================================================================
+
+Copyright (c) 2025 Carlos Eduardo Talero Angel — Bogotá, Colombia.
+Todos los derechos reservados.
+
+Esta plataforma, incluyendo su código fuente, código compilado, componentes,
+interfaces, módulos, diseño visual, arquitectura, flujos de navegación,
+contenidos, documentación y cualquier otro elemento asociado a CYBERSEC LAB
+(en adelante, "la Plataforma"), es propiedad exclusiva de su autor y está
+protegida por las leyes de derechos de autor aplicables a nivel nacional
+e internacional, incluyendo la legislación colombiana sobre propiedad
+intelectual (Ley 23 de 1982 y normas concordantes).
+
+--------------------------------------------------------------------------------
+1. RESTRICCIONES DE USO
+--------------------------------------------------------------------------------
+
+Queda estrictamente PROHIBIDO, sin autorización previa y por escrito del autor:
+
+  a) Copiar, reproducir, distribuir o publicar la Plataforma o cualquier
+     parte de ella, ya sea de forma gratuita o comercial.
+
+  b) Modificar, adaptar, traducir, descompilar, realizar ingeniería inversa,
+     desensamblar o derivar obras basadas en la Plataforma o sus componentes.
+
+  c) Sublicenciar, vender, arrendar, prestar o transferir la Plataforma o
+     cualquier derecho sobre ella a terceros.
+
+  d) Utilizar el nombre, logotipo, diseño, estructura, flujos o cualquier
+     elemento visual o funcional de la Plataforma con fines comerciales,
+     publicitarios o de competencia desleal.
+
+  e) Publicar, subir o compartir el código fuente de la Plataforma en
+     repositorios públicos, foros o redes de distribución sin autorización
+     expresa del autor.
+
+  f) Usar la Plataforma o cualquiera de sus módulos como base para desarrollar
+     productos o servicios propios sin licencia comercial vigente.
+
+--------------------------------------------------------------------------------
+2. LICENCIA DE USO AUTORIZADO
+--------------------------------------------------------------------------------
+
+El adquiriente legítimo de la Plataforma recibe una licencia personal,
+intransferible y no exclusiva para:
+
+  - Instalar y ejecutar la Plataforma en sus propios servidores o entornos
+    de desarrollo privados.
+  - Utilizar la Plataforma con los fines acordados en el contrato de compra
+    o acuerdo comercial celebrado con el autor.
+
+Esta licencia NO otorga ningún derecho de propiedad intelectual sobre la
+Plataforma, sus componentes ni su diseño.
+
+--------------------------------------------------------------------------------
+3. DEMOSTRACIONES Y MATERIAL PÚBLICO
+--------------------------------------------------------------------------------
+
+Cualquier versión de demostración, captura de pantalla, video promocional o
+material de presentación de la Plataforma publicado públicamente por el autor
+tiene como único fin la presentación y comercialización del producto.
+
+Dicho material no constituye una cesión de derechos ni autoriza su
+reproducción, distribución o uso por parte de terceros.
+
+--------------------------------------------------------------------------------
+4. PROPIEDAD INTELECTUAL
+--------------------------------------------------------------------------------
+
+Todos los elementos de la Plataforma, incluyendo pero no limitándose a:
+nombre, logotipo, diseño de interfaces, arquitectura de software, módulos
+funcionales, flujos de usuario, estilos visuales, código fuente y
+documentación técnica, son propiedad exclusiva del autor.
+
+Ninguna parte de esta licencia debe interpretarse como una transferencia
+de derechos de propiedad intelectual al adquiriente o usuario.
+
+--------------------------------------------------------------------------------
+5. CONFIDENCIALIDAD
+--------------------------------------------------------------------------------
+
+El adquiriente se compromete a mantener en estricta confidencialidad el
+código fuente, la arquitectura y cualquier información técnica interna de la
+Plataforma a la que tenga acceso. Esta obligación de confidencialidad se
+mantiene vigente incluso tras la finalización de cualquier acuerdo comercial
+entre las partes.
+
+--------------------------------------------------------------------------------
+6. GARANTÍA Y RESPONSABILIDAD
+--------------------------------------------------------------------------------
+
+La Plataforma se proporciona "TAL CUAL", sin garantías de ningún tipo,
+expresas o implícitas. El autor no se hace responsable de daños directos,
+indirectos, incidentales o consecuentes derivados del uso, mal uso o
+imposibilidad de uso de la Plataforma.
+
+--------------------------------------------------------------------------------
+7. VIOLACIONES Y ACCIONES LEGALES
+--------------------------------------------------------------------------------
+
+Cualquier uso no autorizado de la Plataforma o de sus componentes constituye
+una violación de esta licencia y de las leyes de propiedad intelectual
+vigentes en Colombia y en el ámbito internacional.
+
+El autor se reserva el derecho de ejercer todas las acciones legales
+disponibles frente a cualquier infracción, incluyendo la exigencia de
+indemnizaciones por daños y perjuicios ante las autoridades competentes.
+
+--------------------------------------------------------------------------------
+8. CONTACTO Y LICENCIAS COMERCIALES
+--------------------------------------------------------------------------------
+
+Para solicitar permisos, adquirir una licencia comercial, realizar acuerdos
+de colaboración o cualquier consulta relacionada con el uso de la Plataforma,
+por favor contacte al autor directamente antes de hacer uso de cualquier
+elemento protegido por esta licencia.
+
+--------------------------------------------------------------------------------
+
+Al descargar, instalar, acceder o utilizar la Plataforma de cualquier forma,
+usted acepta los términos y condiciones establecidos en esta licencia.
+
+================================================================================
+              CYBERSEC LAB © 2025 Carlos Eduardo Talero Angel
+                              Bogotá, Colombia
+                        Todos los derechos reservados
+================================================================================
