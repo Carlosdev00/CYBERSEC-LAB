@@ -9,7 +9,7 @@ Explora conceptos, herramientas y desafíos del mundo real en un ambiente contro
 ## 🔐 Demo
 
 Puedes explorar la plataforma desde el siguiente enlace:  
-🔗 *[Demo en vivo](#)*
+🔗 *[Demo en vivo](https://cybersec-lab.vercel.app/)*
 
 ---
 
